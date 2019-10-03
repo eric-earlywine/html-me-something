@@ -23,7 +23,7 @@ header h1 {
 	text-align: center;
 }
 
-h1, h2, h3 {
+h1, h2 {
 	margin: 0;
 }
 
@@ -85,7 +85,7 @@ img.flipped {
     image-orientation: from-image;
 }
 @media screen and (max-width: 680px) {
-	nav ul li {
+	nav ol li {
 		margin: 1em 0;
 		display: block;
 		font-size: 1em;
